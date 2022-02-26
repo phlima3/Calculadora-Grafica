@@ -1,0 +1,17 @@
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\bin\Debug\prjCalculadoraGraficaTB.exe.config
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\bin\Debug\prjCalculadoraGraficaTB.exe
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\bin\Debug\prjCalculadoraGraficaTB.pdb
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.csprojResolveAssemblyReference.cache
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.Form1.resources
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.Properties.Resources.resources
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.csproj.GenerateResource.Cache
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.exe
+D:\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.pdb
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\bin\Debug\prjCalculadoraGraficaTB.exe.config
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.exe
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.pdb
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\bin\Debug\prjCalculadoraGraficaTB.exe
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\bin\Debug\prjCalculadoraGraficaTB.pdb
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.Form1.resources
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.Properties.Resources.resources
+C:\Users\aluno\Desktop\22_02\CalculadoraGraficaTB\prjCalculadoraGraficaTB\obj\Debug\prjCalculadoraGraficaTB.csproj.GenerateResource.Cache
